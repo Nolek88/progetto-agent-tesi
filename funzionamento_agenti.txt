@@ -1,0 +1,21 @@
+FUNZIONAMENTO PARAMETRI
+
+1) agent_analisi
+
+Copiare e incollare il metodo da testare seguito da tutti i metodi di test, uno dopo l’altro.
+Non devono esserci linee vuote all'interno del codice, altrimenti l'agent le interpreterà come fine dell’inserimento.
+
+2) agent_parametri
+
+Inserire un file .txt contenente sia il metodo da testare sia i metodi di test, all'interno della stessa directory dell’agent.
+
+
+3) agent_test
+
+Eseguire l’agent da riga di comando (cmd) specificando anche il nome del file .txt che contiene il metodo da testare e i test.Il file deve trovarsi nella stessa directory dell’agent.
+
+4) multi_agent
+
+Inserire in un file .txt sia il metodo da testare che i metodi di test.
+Il file deve essere posizionato nella stessa directory dell’agent.
+
